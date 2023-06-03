@@ -2,6 +2,7 @@ node_modules/
 
 # Ignore all files starting with the letter "z"
 Z*.*
+z*.*
 
 # Ignore all files ending in ".env"
 *.env
