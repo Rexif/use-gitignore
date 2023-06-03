@@ -7,4 +7,4 @@ Z*.*
 *.env
 
 # Ignores top-level directory "artifacts".
-artifacts/
+/[Aa]rtifacts
